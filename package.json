@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-practico",
+  "version": "1.0.0",
+  "description": "CURSO PRACTICO DE API CON JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franztoledo/CURSO-API-PRACTICO.git"
+  },
+  "author": "FranzFT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franztoledo/CURSO-API-PRACTICO/issues"
+  },
+  "homepage": "https://github.com/franztoledo/CURSO-API-PRACTICO#readme"
+}
